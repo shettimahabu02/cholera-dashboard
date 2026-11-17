@@ -134,7 +134,7 @@ st.sidebar.date_input("TO", pd.to_datetime("2026-07-13"))
 st.sidebar.button("Reset", use_container_width=True, type="primary")
 
 st.sidebar.markdown("---")
-st.sidebar.caption("All LGAs · All survey types · 2026-07-06 → 2026-07-13")
+st.sidebar.caption("All LGAs · All survey types · 2026-07-06 → 2026-12-26")
 
 # ==========================================
 # 4. HEADER
